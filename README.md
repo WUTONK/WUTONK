@@ -5,7 +5,7 @@
   我对人工智能和bot以及自动化计算和志愿项目感兴趣
   
 - 🌱 I’m currently learning ...
-我正在学习c++,java,python
+我正在学习c++,java,python,swift
 
 - 💞️ I’m looking to collaborate on ...
 我暂时想在翻译方面合作
