@@ -2,7 +2,7 @@
   你好，我是WUTONK
 
 - 👀 I’m interested in ...
-  我对人工智能和bot以及自动化计算和志愿项目感兴趣
+  我对人工智能和bot以及分布式计算和志愿项目感兴趣
   
 - 🌱 I’m currently learning ...
 我正在学习c++,java,python,swift
