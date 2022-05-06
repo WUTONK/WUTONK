@@ -74,4 +74,3 @@ If you want to contact me, the most efficient way is to send emails to me. I wil
 ### 🧑🏻‍💻 My current projects:
 
 [![wutonk/shutoku_ACCcourse](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark&username=wutonk&repo=shutoku_ACCcourse&show_owner=true)](https://github.com/Ileriayo/markdown-badges)
-[![Ileriayo/markdown-badges](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark&username=Ileriayo&repo=markdown-badges&show_owner=true)](https://github.com/Ileriayo/markdown-badges)
