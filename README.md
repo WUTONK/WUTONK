@@ -13,9 +13,9 @@
 
 
 ​		A Python & Swift Developer
-
-
-
+<br />
+<br />
+<br />
 
 <hr/>
 
