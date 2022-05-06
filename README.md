@@ -1,5 +1,4 @@
 <a href="https://github.com/WTUONK"><img align="right" src="https://github-readme-stats.cubik65536.top/api?theme=github_dark&username=WUTONK&count_private=true&hide=stars&show_icons=true&line_height=24"></a>
-<br/>
 <a href="https://github.com/WUTONK"><img align="right" src="https://github-readme-stats.cubik65536.top/api/top-langs/?theme=github_dark&username=WUTONK&layout=compact&count_private=true&card_width=445"></a>
 
 
@@ -7,15 +6,17 @@
 
 ## 🌍 My area : canton 
 
+
+
 <a href="https://www.wutonk.xyz"><img src="https://img.shields.io/website?ddown_message=Offline&label=www.wutonk.xyz&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.wutonk.xyz" width="auto" height="32"></a>
 
-A Python & Swift Developer
+
+​		A Python & Swift Developer
+
+
 [![PGP Key](https://img.shields.io/badge/My%20PGP%20Fingerprint-7C58%20C98C%203AB8%20004E%20046C%2016FA%204462%209FF0%20C890%20D359-%23FA7343?style=for-the-badge)](./pgp-public-key.txt)
+
  > Click on the badge to see my public key!
-
-
-<br/>
-<br/>
 
 <hr/>
 
