@@ -9,8 +9,10 @@
 
 <a href="https://www.wutonk.xyz"><img src="https://img.shields.io/website?ddown_message=Offline&label=www.wutonk.xyz&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.wutonk.xyz" width="auto" height="32"></a>
 
-
 A Python & Swift Developer
+[![PGP Key](https://img.shields.io/badge/My%20PGP%20Fingerprint-7C58%20C98C%203AB8%20004E%20046C%2016FA%204462%209FF0%20C890%20D359-%23FA7343?style=for-the-badge)](./pgp-public-key.txt)
+ > Click on the badge to see my public key!
+
 
 <br/>
 <br/>
@@ -26,9 +28,9 @@ A Python & Swift Developer
 <p>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
   <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src= "https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white" />❌
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
 </p>
 
@@ -40,11 +42,11 @@ A Python & Swift Developer
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/cs-%2300599C.svg?style=for-the-badge&logo=cs%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/vuepress-%23E34F26.svg?style=for-the-badge&logo=vuepress&logoColor=green" />
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
