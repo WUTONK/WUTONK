@@ -1,8 +1,4 @@
-<a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wutonk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"></a>
-<br/>
-<a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&username=wutonk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"></a>
-
-<a href="https://github.com/WTUONK"><img align="right" src="https://github-readme-stats.wutonk.xyz/api?theme=github_dark&username=WUTONK&count_private=true&hide=stars&show_icons=true&line_height=24"></a>
+<a href="https://github.com/WTUONK"><img align="right" src="https://github-readme-stats.cubik65536.top/api?theme=github_dark&username=WUTONK&count_private=true&hide=stars&show_icons=true&line_height=24"></a>
 <br/>
 <a href="https://github.com/WUTONK"><img align="right" src="https://github-readme-stats.cubik65536.top/api/top-langs/?theme=github_dark&username=WUTONK&layout=compact&count_private=true&card_width=445"></a>
 
@@ -16,6 +12,7 @@
 
 A Python & Swift Developer
 
+<br/>
 <br/>
 
 <hr/>
