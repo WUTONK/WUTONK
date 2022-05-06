@@ -14,6 +14,9 @@
 
 ​		A Python & Swift Developer
 
+
+
+
 <hr/>
 
 <p>
@@ -26,7 +29,6 @@
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
   <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src= "https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white" />
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
 </p>
@@ -59,10 +61,9 @@
 ### 📮 how Contact me
 
 If you want to contact me, the most efficient way is to send emails to me. I will check my inbox every `12 to 24 hours`, so you should get my response pretty quickly unless the mail system moves your message to the junk box, which I usually will clear directly after a quick `check every twoweek` (so it's possible that I can't even see your email before it got deleted).
-<br />
+
 ![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-wjt474696120%40gmail.com-informational?style=for-the-badge)
 
-<br />
 [![PGP Key](https://img.shields.io/badge/My%20PGP%20Fingerprint-7C58%20C98C%203AB8%20004E%20046C%2016FA%204462%209FF0%20C890%20D359-%23FA7343?style=for-the-badge)](./pgp-public-key.txt)
 
  > Click on the badge to see my public key!
