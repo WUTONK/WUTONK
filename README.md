@@ -1,17 +1,16 @@
-<a href="https://github.com/wutonk"><img align="left" src="https://github-readme-stats.wutonk.xyz/api?theme=github_dark&username=wutonk&count_private=true&hide=stars&show_icons=true&line_height=24"></a>
+<a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wutonk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"></a>
 <br/>
-<a href="https://github.com/wutonk"><img align="left" src="https://github-readme-stats.wutonk.top/api/top-langs/?theme=github_dark&username=wutonk&layout=compact&count_private=true&card_width=445"></a>
+<a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&username=wutonk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"></a>
 
-## hello world , I'm WUTONK
 
-## 🌍My area : canton 
+## 🙌 hello world , I'm WUTONK
+
+## 🌍 My area : canton 
 
 <a href="https://www.wutonk.xyz"><img src="https://img.shields.io/website?ddown_message=Offline&label=www.wutonk.xyz&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.wutonk.xyz" width="auto" height="32"></a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wutonk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-& Python & Swift Developer 
+Python & Swift Developer 
 
 <br/>
 
