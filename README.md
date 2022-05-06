@@ -1,4 +1,5 @@
 <a href="https://github.com/WTUONK"><img align="right" src="https://github-readme-stats.cubik65536.top/api?theme=github_dark&username=WUTONK&count_private=true&hide=stars&show_icons=true&line_height=24"></a>
+<br/>
 <a href="https://github.com/WUTONK"><img align="right" src="https://github-readme-stats.cubik65536.top/api/top-langs/?theme=github_dark&username=WUTONK&layout=compact&count_private=true&card_width=445"></a>
 
 
@@ -29,7 +30,7 @@
 <p>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
   <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src= "https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white" />❌
+  <img src= "https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
