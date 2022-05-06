@@ -59,4 +59,4 @@ A Python & Swift Developer
 ### 🧑🏻‍💻 My current projects:
 
 [![wutonk/shutoku_ACCcourse](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark&username=wutonk&repo=shutoku_ACCcourse&show_owner=true)](https://github.com/Ileriayo/markdown-badges)
-[![Ileriayo/markdown-badges](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark&username=Ileriayo&repo=markdown-badges&show_owner=true)](https://github.com/Ileriayo/markdown-badges)
+[![wutonk/shutoku_ACCcourse](https://github-readme-stats.vercel.app/api/pin/?theme=github_dark&username=wutonk&repo=shutoku_ACCcourse&show_owner=true)](https://github.com/Ileriayo/markdown-badges)
