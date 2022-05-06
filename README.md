@@ -3,14 +3,14 @@
 <a href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&username=wutonk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"></a>
 
 
-## 🙌 hello world , I'm WUTONK
+## 🙌 hello world , I'm WUTONK!
 
 ## 🌍 My area : canton 
 
 <a href="https://www.wutonk.xyz"><img src="https://img.shields.io/website?ddown_message=Offline&label=www.wutonk.xyz&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.wutonk.xyz" width="auto" height="32"></a>
 
 
-Python & Swift Developer 
+A Python & Swift Developer 
 
 <br/>
 
