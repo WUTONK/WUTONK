@@ -64,7 +64,7 @@ If you want to contact me, the most efficient way is to send emails to me. I wil
 
 ![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-wjt474696120%40gmail.com-informational?style=for-the-badge)
 
-[![PGP Key](https://img.shields.io/badge/My%20PGP%20Fingerprint-7C58%20C98C%203AB8%20004E%20046C%2016FA%204462%209FF0%20C890%20D359-%23FA7343?style=for-the-badge)](./pgp-public-key.txt)
+[![PGP Key](https://img.shields.io/badge/My%20PGP%20Fingerprint-653A%20A570%203763%2028A5%2029E1%20C330%20F059%20FD7E%20E079%20F8B0-%23FA7343?style=for-the-badge)](./pgp-public-key.txt)
 
  > Click on the badge to see my public key!
 
